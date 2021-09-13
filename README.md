@@ -5,7 +5,7 @@ ademas utlizamos  [AOS](https://michalsnik.github.io/aos/), para que fuese dinam
 
 ### Stack :
 <p align="left">
-</a> <a href="https://https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="./img/html5.jpg"  width="100" height="100"/> </a>&nbsp;&nbsp;
+</a> <a href="https://https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank"> <img src="./imges/html5.jpg"  width="100" height="100"/> </a>&nbsp;&nbsp;
 
 </p>
 
