@@ -4,7 +4,7 @@ body {
 }
 
 :root {
-  --main-color: rgb(66, 66, 66);
+  --main-color: rgb(231, 111, 13);
 }
 
 .bg {
@@ -55,7 +55,7 @@ footer {
 }
 
 .home {
-  background-image: url("./imges/developerFondo.jpg");
+  background-image: url("./imges/Fondo_Porfolio.jpg");
 }
 #qr{
  margin-left: 35px;
